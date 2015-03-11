@@ -1,0 +1,8 @@
+{
+  "name": "DCMarchMadness",
+  "version": "0.0.1",
+  "dependencies": {
+    "protractor": "^1.8.0",
+    "webdriver-manager": "^3.0.0"
+  }
+}
