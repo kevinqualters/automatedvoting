@@ -11,7 +11,6 @@ describe('march madness champs', function () {
                    browser.sleep(5000);
                 });
             });
-        //});
-    });
+        });
     });
 });
